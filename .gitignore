@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets and local data
+.env
+subscriptions.json
+*.db
+traces/
+*.db-wal
+*.db-shm
+*.db.bak-*
+data_debug_repo/
+
+# Tool caches
+.pytest_cache/
+
+# Dashboard frontend dependencies
+node_modules/

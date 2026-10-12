@@ -1,0 +1,12 @@
+{
+  "U0123CLAUDE": {
+    "name": "Asha",
+    "provider": "claude",
+    "token": "<output of `claude setup-token`>"
+  },
+  "U0456CODEX": {
+    "name": "Ravi",
+    "provider": "codex",
+    "auth_json": { "...": "contents of ~/.codex/auth.json after `codex login`" }
+  }
+}

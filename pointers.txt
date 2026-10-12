@@ -1,0 +1,22 @@
+features
+    1. There should be 
+
+Traces
+    1. 
+
+connection with subscription
+    1. 
+
+safegaurds/ gaurdrails
+1. gaurdrails for github access
+    - Agent not given github token for commit, pull, PR raise etc.
+    - The agent is placed in a repo cloned repo setup and task of the user.
+    - 
+
+
+dashboard
+    1. Is a real time update dashboard.
+
+
+Database
+    

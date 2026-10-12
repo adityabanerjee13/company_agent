@@ -1,0 +1,4 @@
+id,name,real_name,email,title,timezone,is_bot
+USLACKBOT,slackbot,Slackbot,,,America/Los_Angeles,False
+U0C84EHEWQ5,aicoworker,ai-coworker,,,America/Los_Angeles,True
+U0C944FS0HE,adityabannerjee1997,Aditya Banerjee,,,Asia/Kolkata,False
